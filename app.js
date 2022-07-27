@@ -1,1 +1,1 @@
-import {fetchMovieAvailability,fetchMovieList} from "./api.js"
+import { fetchMovieAvailability, fetchMovieList } from "./api.js";

@@ -1,18 +1,27 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+nav {
+  display: flex;
+  padding: 12px 16px;
+  color: white;
+  background-color: turquoise;
+}
+.logo {
+  display: flex;
+  float: right;
+}
+li {
+  list-style: none;
+  margin-left: 1rem;
+  font-weight: 500;
 }
 
-
-
-
-
-
-.d-none{
-    display: none;
+.d-none {
+  display: none;
 }
-.v-none{
-    visibility: hidden;
+.v-none {
+  visibility: hidden;
 }
-
